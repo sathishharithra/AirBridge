@@ -1,10 +1,10 @@
-# ✈️ AirBridge – Flight Booking & Employee Management System
+# AirBridge – Flight Booking & Employee Management System
 
 **AirBridge** is a full-stack airline reservation and staff management system built using **Java (Spring Boot)**, **JSP**, and **MySQL**. It allows passengers to book flights and admins to manage employees. Upon booking, a **confirmation email** is sent automatically to the passenger's email address. REST APIs are tested with **Postman**.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Backend:** Java, Spring Boot
 - **Frontend:** JSP (Java Server Pages), JSTL
@@ -17,26 +17,26 @@
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-### 🧳 Passenger Module
+### Passenger Module
 - Book flight tickets via JSP form
 - **Send confirmation email** after successful booking ✉️
 - View, edit, and delete passenger bookings
 - REST APIs for all CRUD operations
 
-### 👩‍💼 Employee Module
+### Employee Module
 - Add, view, edit, and delete employee records
 - Admin dashboard using JSP
 - REST APIs for employee management
 
-### 📫 Email Notification
+### Email Notification
 - Upon successful flight booking, the user receives a **confirmation email**
 - Implemented using **Spring Boot Mail (JavaMailSender)**
 
 ---
 
-## 📫 REST API Endpoints (Sample)
+## REST API Endpoints (Sample)
 
 | Function            | Endpoint                  | Method |
 |---------------------|---------------------------|--------|
@@ -49,7 +49,7 @@
 
 ---
 
-## 🧪 API Testing with Postman
+## API Testing with Postman
 
 - All backend APIs were tested using **Postman**
 - CRUD operations verified for both modules
@@ -58,28 +58,19 @@
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### ✈ Passenger Booking 
+### Passenger Booking 
 ![Passenger Booking](screenshots/passenger-booking.png)
 
-### 📧 Email Confirmation 
+### Email Confirmation 
 ![Email Confirmation](screenshots/email-confirmation.png)
 
-###  Employee Management 
+### Employee Registration 
 ![Employee Management](screenshots/employee-management.png)
 
-###  Passenger List 
+### Passenger List 
 ![Email Confirmation](screenshots/passenger-list.png)
 
-###  Employee List 
+### Employee List 
 ![Email Confirmation](screenshots/employee-list.png)
-
----
-
-## 🛠️ How to Run Locally
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/sathishharithra/AirBridge.git
-   cd AirBridge
