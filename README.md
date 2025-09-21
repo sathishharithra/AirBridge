@@ -74,3 +74,11 @@
 
 ### Employee List 
 ![Email Confirmation](screenshots/employee-list.png)
+
+---
+
+### Created by Sathish T
+
+### Email: sathishharithra@gmail.com
+### Location: India
+### LinkedIn: www.linkedin.com/in/sathish-thiruvenkatam
